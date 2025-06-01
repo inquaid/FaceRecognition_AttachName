@@ -54,7 +54,7 @@ FaceRecognition_AttachName/
 ├── training/             # Training images (subdirectories per person)
 ├── validation/           # Validation images
 ├── output/               # Output files (encodings.pkl)
-├── main.py               # Main program
+├── ditector.py               # Main program
 ├── requirements.txt      # Dependencies
 └── README.md             # Documentation
 ```
